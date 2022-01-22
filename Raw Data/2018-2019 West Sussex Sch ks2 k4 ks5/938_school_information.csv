@@ -1,0 +1,341 @@
+﻿URN,LANAME,LA,ESTAB,LAESTAB,SCHNAME,STREET,LOCALITY,ADDRESS3,TOWN,POSTCODE,SCHSTATUS,OPENDATE,CLOSEDATE,MINORGROUP,SCHOOLTYPE,ISPRIMARY,ISSECONDARY,ISPOST16,AGELOW,AGEHIGH,GENDER,RELCHAR,ADMPOL
+114623,West Sussex,938,6019,9386019,Cumnor House School,London Road,Danehill,,Haywards Heath,RH17 7HT,Open,,,Independent school,Other independent school,1,1,0,2,14,Mixed,None,Non-selective
+125816,West Sussex,938,2000,9382000,Aldingbourne Primary School,Westergate Street,Westergate,,Chichester,PO20 3QR,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125819,West Sussex,938,2009,9382009,Bosham Primary School,Walton Lane,Bosham,,Chichester,PO18 8QF,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125820,West Sussex,938,2010,9382010,Shelley Primary School,Wickhurst Lane,Broadbridge Heath,,Horsham,RH12 3LU,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125821,West Sussex,938,2011,9382011,Camelsdale Primary School,School Road,Camelsdale,,Haslemere,GU27 3RN,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125822,West Sussex,938,2012,9382012,Lancastrian Infant School,Orchard Gardens,,,Chichester,PO19 1DG,Closed,,30-11-2020,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+125825,West Sussex,938,2015,9382015,Colgate Primary School,Blackhouse Road,Colgate,,Horsham,RH13 6HS,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125826,West Sussex,938,2018,9382018,West Green Primary School,West Green Drive,,,Crawley,RH11 7EL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125829,West Sussex,938,2025,9382025,East Wittering Community Primary School,Stocks Lane,East Wittering,,Chichester,PO20 8NH,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125830,West Sussex,938,2028,9382028,Funtington Primary School,Heather Close,West Ashling,,Chichester,PO18 8DR,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125832,West Sussex,938,2030,9382030,Hollycombe Primary School,Wardley Green,Milland,,Liphook,GU30 7LY,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125835,West Sussex,938,2035,9382035,Trafalgar Community Infant School,Victory Road,,,Horsham,RH12 2JF,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125836,West Sussex,938,2036,9382036,"Northolmes Junior School, Horsham",Leith View Road,,,Horsham,RH12 4ET,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125837,West Sussex,938,2037,9382037,Littlehaven Infant School,Hawkesbourne Road,,,Horsham,RH12 4EH,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125838,West Sussex,938,2038,9382038,Barns Green Primary School,The Hordens,,Barns Green,Horsham,RH13 0PJ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125841,West Sussex,938,2042,9382042,North Lancing Primary School,Mill Road,Adur,,Lancing,BN15 0PT,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125845,West Sussex,938,2046,9382046,Loxwood Primary School,Nicholsfield,Loxwood,,Billingshurst,RH14 0SR,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125846,West Sussex,938,2048,9382048,Northchapel Community Primary School,Pipers Lane,Northchapel,,Petworth,GU28 9JA,Open,,,Maintained school,Community school,1,0,0,2,11,Mixed,Does not apply,Not applicable
+125847,West Sussex,938,2049,9382049,North Mundham Primary School,School Lane,North Mundham,,Chichester,PO20 1LA,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125848,West Sussex,938,2050,9382050,Plaistow and Kirdford Primary School,Plaistow,,,Billingshurst,RH14 0PX,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125849,West Sussex,938,2051,9382051,Rudgwick Primary School,Tates Way,Rudgwick,,Horsham,RH12 3HW,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125850,West Sussex,938,2052,9382052,Rusper Primary School,Rusper,,,Horsham,RH12 4PR,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125853,West Sussex,938,2058,9382058,Sidlesham Primary School,Keynor Lane,Sidlesham,,Chichester,PO20 7NL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125854,West Sussex,938,2066,9382066,Stedham Primary School,School Lane,Stedham,,Midhurst,GU29 0NY,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125856,West Sussex,938,2069,9382069,Thakeham Primary School,Rock Road,Storrington,,Pulborough,RH20 3AA,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125857,West Sussex,938,2070,9382070,Upper Beeding Primary School,School Road,Upper Beeding,,Steyning,BN44 3HY,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125858,West Sussex,938,2071,9382071,Westbourne Primary School,River Street,Westbourne,,Emsworth,PO10 8TG,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125859,West Sussex,938,2072,9382072,West Chiltington Community Primary School,East Street,West Chiltington,,Pulborough,RH20 2JY,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125860,West Sussex,938,2073,9382073,Wisborough Green Primary School,Newpound Lane,Wisborough Green,,Billingshurst,RH14 0EE,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125861,West Sussex,938,2075,9382075,Whytemead Primary School,Dominion Road,,,Worthing,BN14 8LH,Closed,,30-09-2021,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125862,West Sussex,938,2076,9382076,Durrington Infant School,Salvington Road,,,Worthing,BN13 2JD,Open,,,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+125863,West Sussex,938,2077,9382077,"Elm Grove Primary School, Worthing",Elm Grove,,Elm Grove Primary School,Worthing,BN11 5LQ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125864,West Sussex,938,2080,9382080,Field Place Infant School,Nelson Road,,,Worthing,BN12 6EN,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+125865,West Sussex,938,2082,9382082,"Vale School, Worthing",Vale Avenue,,,Worthing,BN14 0DB,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125868,West Sussex,938,2093,9382093,Thorney Island Community Primary School,Thorney Island,,,Emsworth,PO10 8DJ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125873,West Sussex,938,2101,9382101,"Bersted Green Primary School, Bognor Regis",Laburnum Grove,,,Bognor Regis,PO22 9HT,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125874,West Sussex,938,2102,9382102,Storrington Primary School,Spierbridge Road,Storrington,,Pulborough,RH20 4PG,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125875,West Sussex,938,2105,9382105,Southbourne Infant School,New Road,Southbourne,,Emsworth,PO10 8JX,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125878,West Sussex,938,2110,9382110,Southbourne Junior School,New Road,Southbourne,,Emsworth,PO10 8JX,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125880,West Sussex,938,2112,9382112,Jessie Younghusband Primary School,Woodlands Lane,,,Chichester,PO19 5PA,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125883,West Sussex,938,2124,9382124,"Arunside School, Horsham",Blackbridge Lane,,,Horsham,RH12 1RR,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125885,West Sussex,938,2131,9382131,Shoreham Beach Primary School,Shingle Road,,,Shoreham-by-Sea,BN43 5RH,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125887,West Sussex,938,2133,9382133,Heron Way Primary School,Heron Way,,,Horsham,RH13 6DJ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125901,West Sussex,938,2153,9382153,Three Bridges Primary School,Gales Place,Three Bridges,,Crawley,RH10 1QG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+125905,West Sussex,938,2161,9382161,"Pound Hill Junior School, Crawley",Crawley Lane,Pound Hill,,Crawley,RH10 7EB,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125913,West Sussex,938,2172,9382172,Glebe Primary School,Church Lane,Southwick,,Brighton,BN42 4GB,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125914,West Sussex,938,2173,9382173,Swiss Gardens Primary School,Swiss Gardens,,,Shoreham-by-Sea,BN43 5WH,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125916,West Sussex,938,2176,9382176,Milton Mount Primary School,Grattons Drive,Pound Hill,,Crawley,RH10 3AG,Closed,,31-08-2020,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125918,West Sussex,938,2182,9382182,Leechpool Primary School,Leechpool Lane,,,Horsham,RH13 6AG,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125919,West Sussex,938,2183,9382183,East Preston Infant School,Lashmar Road,East Preston,,Littlehampton,BN16 1EZ,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125921,West Sussex,938,2185,9382185,Parklands Community Primary School,Durnford Close,,,Chichester,PO19 3AG,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125922,West Sussex,938,2186,9382186,"Bartons Primary School, Bognor Regis",Lethaby Road,,,Bognor Regis,PO21 5EJ,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125927,West Sussex,938,2198,9382198,Lyminster Primary School,Wick Street,,,Littlehampton,BN17 7JZ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125928,West Sussex,938,2199,9382199,Rose Green Infant School,Hawkins Close,,,Bognor Regis,PO21 3LW,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125929,West Sussex,938,2200,9382200,Ashurst Wood Primary School,School Lane,Ashurst Wood,,East Grinstead,RH19 3QW,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125930,West Sussex,938,2201,9382201,Manor Field Primary School,Junction Road,,,Burgess Hill,RH15 0PZ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125931,West Sussex,938,2202,9382202,London Meed Community Primary School,Chanctonbury Road,,,Burgess Hill,RH15 9YQ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125932,West Sussex,938,2205,9382205,Handcross Primary School,London Road,Handcross,,Haywards Heath,RH17 6HB,Open,,,Maintained school,Community school,1,0,0,2,11,Mixed,Does not apply,Not applicable
+125933,West Sussex,938,2206,9382206,Hassocks Infant School,Chancellors Park,,,Hassocks,BN6 8EY,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125936,West Sussex,938,2209,9382209,Woodgate Primary School,41 Bellevue Farm Road,Pease Pottage,,Crawley,RH11 9GT,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+125939,West Sussex,938,2213,9382213,The Windmills Junior School,Dale Avenue,,,Hassocks,BN6 8LS,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125940,West Sussex,938,2214,9382214,The Gattons Infant School,Royal George Road,,,Burgess Hill,RH15 9SL,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125941,West Sussex,938,2215,9382215,Southway Junior School,Southway,,,Burgess Hill,RH15 9SU,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125943,West Sussex,938,2218,9382218,"Fairway Infant School, Copthorne",Fairway,Copthorne,,Crawley,RH10 3QD,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+125944,West Sussex,938,2219,9382219,"Birchwood Grove Community Primary School, Burgess Hill",Birchwood Grove Road,,,Burgess Hill,RH15 0DP,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125945,West Sussex,938,2220,9382220,Estcots Primary School,Bourg-De-Peage Avenue,,,East Grinstead,RH19 3TY,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125949,West Sussex,938,2225,9382225,North Heath Community Primary School,Erica Way,,,Horsham,RH12 5XL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125950,West Sussex,938,2227,9382227,"Hawthorns Primary School, Durrington",Poplar Road,Durrington,,Worthing,BN13 3EZ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125952,West Sussex,938,2229,9382229,Durrington Junior School,Salvington Road,,,Worthing,BN13 2JD,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125954,West Sussex,938,2231,9382231,Thomas A Becket Infant School,Pelham Road,,,Worthing,BN13 1JB,Open,,,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+125955,West Sussex,938,2232,9382232,Thomas A Becket Junior School,Glebeside Avenue,,,Worthing,BN14 7PR,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125958,West Sussex,938,2235,9382235,Sheddingdean Community Primary School,Petworth Drive,,,Burgess Hill,RH15 8JT,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125959,West Sussex,938,2237,9382237,Georgian Gardens Community Primary School,Guildford Road,Rustington,,Littlehampton,BN16 3JJ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125960,West Sussex,938,2238,9382238,Lyndhurst Infant School,Lyndhurst Road,,,Worthing,BN11 2DG,Open,,,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+125961,West Sussex,938,2239,9382239,Chesswood Junior School,53 Chesswood Road,,,Worthing,BN11 2AA,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+125962,West Sussex,938,2240,9382240,Maidenbower Infant School,Harvest Road,Maidenbower,,Crawley,RH10 7RA,Open,,,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+125963,West Sussex,938,2241,9382241,Blackwell Primary School,Blackwell Farm Road,,,East Grinstead,RH19 3JL,Closed,,31-08-2020,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125964,West Sussex,938,2242,9382242,The Meads Primary School,"The Meads Primary School, Mill Way",,,East Grinstead,RH19 4DD,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125965,West Sussex,938,2243,9382243,Holbrook Primary School,Holbrook School Lane,,,Horsham,RH12 5PP,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125967,West Sussex,938,2245,9382245,Springfield Infant School and Nursery,Sackville Road,,,Worthing,BN14 8BQ,Open,,,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+125968,West Sussex,938,2246,9382246,Bramber Primary School,Bramber Road,,,Worthing,BN14 8QB,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+125970,West Sussex,938,3000,9383000,Amberley CofE Primary School,School Road,Amberley,,Arundel,BN18 9NB,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125971,West Sussex,938,3001,9383001,Ashington CofE Primary School,Foster Lane,Ashington,,Pulborough,RH20 3PG,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,11,Mixed,Church of England,Not applicable
+125972,West Sussex,938,3002,9383002,Birdham CE Primary School,Crooked Lane,Birdham,,Chichester,PO20 7HB,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125973,West Sussex,938,3003,9383003,South Bersted CofE Primary School,Church Lane,,,Bognor Regis,PO22 9PZ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125974,West Sussex,938,3004,9383004,Boxgrove CofE Primary School,The Street,Boxgrove,,Chichester,PO18 0EE,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,11,Mixed,Church of England,Not applicable
+125975,West Sussex,938,3005,9383005,Rumboldswhyke CofE Infants' School,Rumbolds Close,West Sussex,,Chichester,PO19 7UA,Closed,,30-09-2020,Maintained school,Voluntary controlled school,1,0,0,5,7,Mixed,Church of England,Not applicable
+125976,West Sussex,938,3006,9383006,Chidham Parochial Primary School,Chidham Lane,Chidham,,Chichester,PO18 8TH,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125977,West Sussex,938,3007,9383007,Clapham and Patching CofE Primary School,The Street,Clapham,,Worthing,BN13 3UU,Closed,,31-10-2020,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125978,West Sussex,938,3009,9383009,"St James' CofE Primary School, Coldwaltham",Church Lane,Coldwaltham,,Pulborough,RH20 1LW,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125979,West Sussex,938,3010,9383010,Compton and Up Marden CofE Primary School,School Lane,Compton,,Chichester,PO18 9EZ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125980,West Sussex,938,3013,9383013,Duncton CofE Junior School,Willett Close,Duncton,,Petworth,GU28 0LB,Open,,,Maintained school,Voluntary controlled school,1,0,0,7,11,Mixed,Church of England,Not applicable
+125981,West Sussex,938,3014,9383014,Eastergate CofE Primary School,Church Lane,Eastergate,,Chichester,PO20 3UT,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125982,West Sussex,938,3016,9383016,Ferring C of E Primary School,Sea Lane,Ferring,,Worthing,BN12 5DU,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125983,West Sussex,938,3017,9383017,Fishbourne CofE Primary School,Roman Way,Fishbourne,,Chichester,PO19 3QS,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125984,West Sussex,938,3018,9383018,Fittleworth CofE Village School,School Lane,,,Fittleworth,RH20 1JB,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125985,West Sussex,938,3020,9383020,Jolesfield CofE Primary School,Littleworth Lane,Partridge Green,,Horsham,RH13 8JJ,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,11,Mixed,Church of England,Not applicable
+125986,West Sussex,938,3021,9383021,Lavant CofE Primary School,West Stoke Road,Lavant,,Chichester,PO18 0BW,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125987,West Sussex,938,3022,9383022,"Holy Trinity CofE Primary School, Lower Beeding",Church Close,Lower Beeding,,Horsham,RH13 6NS,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125988,West Sussex,938,3023,9383023,Midhurst CofE Primary School,Ashfield Road,,,Midhurst,GU29 9JX,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125989,West Sussex,938,3024,9383024,Rake CofE Primary School,London Road,Rake,,Liss,GU33 7JH,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125990,West Sussex,938,3026,9383026,Petworth Cof E Primary School,South Grove,,,Petworth,GU28 0EE,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125991,West Sussex,938,3027,9383027,Rogate CofE Primary School,School Lane,Rogate,,Petersfield,GU31 5HH,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125992,West Sussex,938,3028,9383028,Shipley CofE Primary School,School Lane,,Shipley,Horsham,RH13 8PL,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125993,West Sussex,938,3029,9383029,Singleton CofE Primary School,Charlton Road,,Singleton,Chichester,PO18 0HP,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125994,West Sussex,938,3030,9383030,Slindon CofE Primary School,Meadsway,Slindon,,Arundel,BN18 0QU,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125995,West Sussex,938,3031,9383031,Slinfold CofE Primary School,The Street,Slinfold,,Horsham,RH13 0RR,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125996,West Sussex,938,3033,9383033,Steyning CofE Primary School,Shooting Field,,,Steyning,BN44 3RQ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125997,West Sussex,938,3036,9383036,Walberton and Binsted CofE Primary School,The Street,Walberton,,Arundel,BN18 0PH,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125998,West Sussex,938,3037,9383037,Warnham CofE Primary School,Freeman Road,Warnham,Rh12 3rq,Horsham,RH12 3RQ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+125999,West Sussex,938,3038,9383038,St Mary's CofE Primary School,School Lane,Washington,,Pulborough,RH20 4AP,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,11,Mixed,Church of England,Not applicable
+126000,West Sussex,938,3039,9383039,West Wittering Parochial Church of England School,Pound Road,West Wittering,,Chichester,PO20 8AJ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126001,West Sussex,938,3040,9383040,Yapton CE Primary School,North End Road,Yapton,,Arundel,BN18 0DU,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126002,West Sussex,938,3042,9383042,William Penn School,Brooks Green Road,Coolham,,Horsham,RH13 8GR,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Quaker,Not applicable
+126003,West Sussex,938,3043,9383043,Easebourne CofE Primary School,Wheelbarrow Castle,,Easebourne,Midhurst,GU29 9AG,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126004,West Sussex,938,3045,9383045,West Dean CofE Primary School,West Dean,,West Dean Ce Primary School,Chichester,PO18 0RJ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126005,West Sussex,938,3050,9383050,St Peter's CofE Primary School,Holmans,Street Lane,Ardingly,Haywards Heath,RH17 6UQ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126006,West Sussex,938,3051,9383051,Balcombe CofE Controlled Primary School,London Road,Balcombe,,Haywards Heath,RH17 6HS,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126007,West Sussex,938,3052,9383052,Bolney CofE Primary School,Church Lane,Bolney,,Haywards Heath,RH17 5QP,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126009,West Sussex,938,3055,9383055,St Augustine's CofE Primary School,Vicarage Lane,Scaynes Hill,,Haywards Heath,RH17 7PB,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126010,West Sussex,938,3056,9383056,Turners Hill CofE Primary School,Church Road,Turners Hill,,Crawley,RH10 4PA,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126011,West Sussex,938,3057,9383057,Twineham CofE Primary School,Church Lane,Twineham,,Haywards Heath,RH17 5NR,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126012,West Sussex,938,3058,9383058,West Hoathly CofE Primary School,North Lane,West Hoathly,,East Grinstead,RH19 4QG,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,11,Mixed,Church of England,Not applicable
+126013,West Sussex,938,3059,9383059,Copthorne CofE Junior School,Church Road,,Copthorne Ce Junior School,Copthorne,RH10 3RD,Open,,,Maintained school,Voluntary controlled school,1,0,0,7,11,Mixed,Church of England,Not applicable
+126014,West Sussex,938,3060,9383060,Albourne CofE Primary School,The Street,Albourne,,Hassocks,BN6 9DH,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126015,West Sussex,938,3061,9383061,St. Mark's CofE Primary School,Brantridge Lane,Staplefield,,Haywards Heath,RH17 6EN,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126016,West Sussex,938,3062,9383062,West Park CofE Primary (Controlled) School,Marlborough Road,,,Worthing,BN12 4HD,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126017,West Sussex,938,3063,9383063,Harting CofE Primary School,Tipper Lane,South Harting,Tipper Lane,Petersfield,GU31 5QT,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126018,West Sussex,938,3300,9383300,St Margaret's CofE Primary School,Arundel Road,Angmering,,Littlehampton,BN16 4LP,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126019,West Sussex,938,3301,9383301,Arundel CofE Primary School,Jarvis Road,,,Arundel,BN18 9HT,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126020,West Sussex,938,3302,9383302,Ashurst CofE Primary School,School Lane,Ashurst,,Steyning,BN44 3AY,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126021,West Sussex,938,3303,9383303,Nyewood CofE Junior School,Brent Road,,,Bognor Regis,PO21 5NW,Open,,,Maintained school,Voluntary aided school,1,0,0,7,11,Mixed,Church of England,Not applicable
+126022,West Sussex,938,3304,9383304,Bury CofE Primary School,Westburton Lane,Bury,,Pulborough,RH20 1HB,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126024,West Sussex,938,3308,9383308,St Mary's CofE Primary School,Brookpit Lane,Clymping,,Littlehampton,BN17 5QU,Open,,,Maintained school,Voluntary aided school,1,0,0,5,11,Mixed,Church of England,Not applicable
+126025,West Sussex,938,3309,9383309,St Peter's CofE (Aided) Primary School,Potters Green,Station Road,Cowfold,Horsham,RH13 8QZ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126027,West Sussex,938,3313,9383313,St John the Baptist CofE Primary School,School Hill,Findon,,Worthing,BN14 0TR,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126028,West Sussex,938,3314,9383314,St Peter's CofE Primary School,Fabians Way,,,Henfield,BN5 9PU,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126029,West Sussex,938,3315,9383315,St Mary's CofE (Aided) Primary School,Normandy,,,Horsham,RH12 1JL,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126030,West Sussex,938,3317,9383317,St Andrew's CofE Primary School,Nuthurst Street,Nuthurst,,Horsham,RH13 6LH,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126031,West Sussex,938,3321,9383321,The March CofE Primary School,Claypit Lane,Westhampnett,,Chichester,PO18 0NU,Closed,,30-11-2018,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126033,West Sussex,938,3324,9383324,Broadwater CofE Primary School,Rectory Gardens,,,Worthing,BN14 7TQ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126034,West Sussex,938,3326,9383326,Heene CofE Primary School,Norfolk Street,,,Worthing,BN11 4BB,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126035,West Sussex,938,3327,9383327,St Wilfrids Catholic Primary School,Arundel Road,Angmering,,Littlehampton,BN16 4JR,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126036,West Sussex,938,3328,9383328,"St Philip's Catholic Primary School, Arundel",London Road,,,Arundel,BN18 9BA,Open,,,Maintained school,Voluntary aided school,1,0,0,5,11,Mixed,Roman Catholic,Not applicable
+126037,West Sussex,938,3329,9383329,St Mary's Catholic Primary School,Glamis Street,,,Bognor Regis,PO21 1DJ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126038,West Sussex,938,3330,9383330,St Richard's Catholic Primary School,Cawley Road,,,Chichester,PO19 1XB,Open,,,Maintained school,Voluntary aided school,1,0,0,5,11,Mixed,Roman Catholic,Not applicable
+126039,West Sussex,938,3331,9383331,St John's Catholic Primary School,Blackbridge Lane,,,Horsham,RH12 1RR,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126040,West Sussex,938,3332,9383332,"St Catherine's Catholic Primary School, Littlehampton",Highdown Drive,,St Catherine's Catholic Primary School,Littlehampton,BN17 6HL,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126041,West Sussex,938,3333,9383333,"St Peter's Catholic Primary School, Shoreham-by-Sea",Sullington Way,,,Shoreham-by-Sea,BN43 6PJ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Non-selective
+126043,West Sussex,938,3335,9383335,St Margaret's CofE Primary School,The Mardens,Ifield,,Crawley,RH11 0AQ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126044,West Sussex,938,3338,9383338,"Our Lady Queen of Heaven Catholic Primary School, Crawley",Hare Lane,Langley Green,,Crawley,RH11 7PZ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126045,West Sussex,938,3339,9383339,Goring-By-Sea CofE (Aided) Primary School,Mulberry Lane,Goring-by-Sea,,Worthing,BN12 4RN,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126046,West Sussex,938,3340,9383340,"St Francis of Assisi Catholic Primary School, Crawley",Southgate Drive,,,Crawley,RH10 6HD,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126047,West Sussex,938,3341,9383341,St Andrew's CofE Primary School,Weald Drive,Furnace Green,,Crawley,RH10 6NU,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126048,West Sussex,938,3342,9383342,St Mary's Church of England Primary School,Link Lane,,,Pulborough,RH20 2AN,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126049,West Sussex,938,3343,9383343,St Nicolas & St Mary CofE(Aided) Primary School,Eastern Avenue,,,Shoreham-by-Sea,BN43 6PE,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126050,West Sussex,938,3344,9383344,"Bishop Tufnell CofE Primary School, Felpham",Pennyfields,Felpham,,Bognor Regis,PO22 6BN,Open,,,Maintained school,Voluntary aided school,1,0,0,5,11,Mixed,Church of England,Not applicable
+126051,West Sussex,938,3345,9383345,"English Martyrs Catholic Primary School, Worthing",Derwent Drive,Goring-by-Sea,,Worthing,BN12 6LA,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126052,West Sussex,938,3348,9383348,"Nyewood CofE Infant School, Bognor Regis",Brent Road,,,Bognor Regis,PO21 5NW,Open,,,Maintained school,Voluntary aided school,1,0,0,5,7,Mixed,Church of England,Not applicable
+126053,West Sussex,938,3349,9383349,"St Robert Southwell Catholic Primary School, Horsham",Lambs Farm Road,Roffey,,Horsham,RH12 4LP,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126054,West Sussex,938,3350,9383350,"Holy Trinity CofE Primary School, Cuckfield",Glebe Road,,,Haywards Heath,RH17 5BQ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126055,West Sussex,938,3351,9383351,"St Mary's CofE Primary School, East Grinstead",Windmill Lane,,,East Grinstead,RH19 2DS,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126056,West Sussex,938,3352,9383352,"St Wilfrid's CofE Primary School, Haywards Heath",Eastern Road,,,Haywards Heath,RH16 3NL,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126057,West Sussex,938,3353,9383353,St Giles CofE Primary School,Church Lane,Horsted Keynes,,Haywards Heath,RH17 7AY,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+126059,West Sussex,938,3355,9383355,"St Joseph's Catholic Primary School, Haywards Heath",Hazelgrove Road,,,Haywards Heath,RH16 3PQ,Closed,,31-08-2020,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126060,West Sussex,938,3356,9383356,St Peter's Catholic Primary School,Chapmans Lane,,,East Grinstead,RH19 1JB,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126061,West Sussex,938,3357,9383357,"St Wilfrid's Catholic Primary School, Burgess Hill",School Close,Queen Elizabeth Avenue,,Burgess Hill,RH15 9RJ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+126064,West Sussex,938,4002,9384002,Tanbridge House School,Farthings Hill,Guildford Road,,Horsham,RH12 1SR,Open,,,Maintained school,Community school,0,1,0,11,16,Mixed,Does not apply,Non-selective
+126065,West Sussex,938,4009,9384009,The Forest School,Comptons Lane,,,Horsham,RH13 5NT,Open,,,Maintained school,Community school,0,1,0,11,16,Mixed,Does not apply,Non-selective
+126066,West Sussex,938,4010,9384010,Millais School,Depot Road,,,Horsham,RH13 5HR,Open,,,Maintained school,Community school,0,1,0,11,16,Girls,Does not apply,Non-selective
+126068,West Sussex,938,4025,9384025,"Weald School, The",Station Road,,,Billingshurst,RH14 9RY,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+126069,West Sussex,938,4028,9384028,Bourne Community College,Park Road,Southbourne,,Emsworth,PO10 8PJ,Open,,,Maintained school,Foundation school,0,1,0,11,16,Mixed,None,Non-selective
+126071,West Sussex,938,4030,9384030,Ifield Community College,Crawley Avenue,Ifield,,Crawley,RH11 0DB,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+126080,West Sussex,938,4059,9384059,Felpham Community College,Felpham Way,Felpham,,Bognor Regis,PO22 8EL,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+126081,West Sussex,938,4060,9384060,The Angmering School,Station Road,Angmering,,Littlehampton,BN16 4HH,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+126085,West Sussex,938,4102,9384102,Oathall Community College,Appledore Gardens,Lindfield,,Haywards Heath,RH16 2AQ,Open,,,Maintained school,Community school,0,1,0,11,16,Mixed,Does not apply,Non-selective
+126087,West Sussex,938,4105,9384105,Downlands Community School,Dale Avenue,,,Hassocks,BN6 8LP,Open,,,Maintained school,Community school,0,1,0,11,16,Mixed,Does not apply,Non-selective
+126088,West Sussex,938,4106,9384106,Imberhorne School,Imberhorne Lane,,,East Grinstead,RH19 1QY,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+126089,West Sussex,938,4107,9384107,Sackville School,Lewes Road,,,East Grinstead,RH19 3TY,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+126092,West Sussex,938,4501,9384501,Steyning Grammar School,Shooting Field,,,Steyning,BN44 3RX,Closed,,30-11-2020,Maintained school,Voluntary controlled school,0,1,1,11,18,Mixed,Church of England,Non-selective
+126093,West Sussex,938,4502,9384502,"Davison Church of England High School for Girls, Worthing",Selborne Road,,,Worthing,BN11 2JX,Open,,,Maintained school,Voluntary controlled school,0,1,0,11,16,Girls,Church of England,Non-selective
+126094,West Sussex,938,4601,9384601,St Andrew's CofE High School,Sackville Road,,,Worthing,BN14 8BG,Open,,,Maintained school,Voluntary aided school,0,1,0,11,16,Mixed,Church of England,Non-selective
+126095,West Sussex,938,4602,9384602,"St Wilfrid's Catholic Comprehensive School, Crawley",St Wilfrid's Way,,,Crawley,RH11 8PG,Open,,,Maintained school,Voluntary aided school,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+126096,West Sussex,938,4603,9384603,St Oscar Romero Catholic School,Goring Street,Goring-By-Sea,,Worthing,BN12 5AF,Open,,,Maintained school,Voluntary aided school,0,1,0,11,16,Mixed,Roman Catholic,Non-selective
+126098,West Sussex,938,4606,9384606,"Holy Trinity CofE Secondary School, Crawley",Buckswood Drive,Gossops Green,,Crawley,RH11 8JE,Open,,,Maintained school,Voluntary aided school,0,1,1,11,18,Mixed,Church of England,Non-selective
+126101,West Sussex,938,4610,9384610,St Paul's Catholic College,Jane Murray Way,,,Burgess Hill,RH15 8GA,"Open, but proposed to close",,30-11-2021,Maintained school,Voluntary aided school,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+126104,West Sussex,938,6005,9386005,Oakwood School,Oakwood,,,Chichester,PO18 9AN,Open,,,Independent school,Other independent school,1,0,0,2,11,Mixed,Church of England,Non-selective
+126105,West Sussex,938,6007,9386007,Westbourne House School,Coach Road,Shopwyke,,Chichester,PO20 2BH,Open,,,Independent school,Other independent school,1,1,0,2,14,Mixed,None,Non-selective
+126106,West Sussex,938,6008,9386008,Cottesmore School,Buchan Hill,Pease Pottage,,Crawley,RH11 9AU,Open,,,Independent school,Other independent school,1,1,0,4,13,Mixed,None,Not applicable
+126107,West Sussex,938,6011,9386011,Christ's Hospital,,,,Horsham,RH13 0LJ,Open,,,Independent school,Other independent school,0,1,1,11,18,Mixed,None,Selective
+126108,West Sussex,938,6013,9386013,Lancing College,,,,Lancing,BN15 0RW,Open,,,Independent school,Other independent school,0,1,1,12,18,Mixed,Church of England,Not applicable
+126109,West Sussex,938,6015,9386015,Dorset House School,The Manor,Church Lane,Bury,Pulborough,RH20 1PB,Open,,,Independent school,Other independent school,1,1,0,4,13,Mixed,None,Non-selective
+126110,West Sussex,938,6023,9386023,Seaford College,Lavington Park,Petworth,West Sussex,,GU28 0NB,Open,,,Independent school,Other independent school,1,1,1,7,18,Mixed,None,Non-selective
+126111,West Sussex,938,6026,9386026,Pennthorpe School,Church Street,Rudgwick,,Horsham,RH12 3HJ,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Not applicable
+126112,West Sussex,938,6027,9386027,Shoreham College,St Julian's Lane,Shoreham by Sea,West Sussex,,BN43 6YW,Open,,,Independent school,Other independent school,1,1,0,2,16,Mixed,None,Non-selective
+126113,West Sussex,938,6028,9386028,Windlesham House School,London Road,Washington,,Pulborough,RH20 4AY,Open,,,Independent school,Other independent school,1,1,0,3,14,Mixed,Anglican,Non-selective
+126114,West Sussex,938,6029,9386029,Lancing College Preparatory School at Worthing,Broadwater Road,,,Worthing,BN14 8HU,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Not applicable
+126115,West Sussex,938,6030,9386030,Our Lady of Sion School,Gratwicke Road,Worthing,,,BN11 4BL,Open,,,Independent school,Other independent school,1,1,1,3,19,Mixed,Roman Catholic,Not applicable
+126118,West Sussex,938,6072,9386072,Conifers School,Egmont Road,,,Midhurst,GU29 9BG,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Non-selective
+126119,West Sussex,938,6094,9386094,Slindon College,Top Road,Slindon,,Arundel,BN18 0RH,Open,,,Independent school,Other independent school,1,1,1,8,18,Boys,Church of England,Non-selective
+126121,West Sussex,938,6125,9386125,Sompting Abbotts School,Church Lane,Sompting,,Lancing,BN15 0AZ,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,Church of England,Not applicable
+126122,West Sussex,938,6128,9386128,The Prebendal School,52-55 West Street,,,Chichester,PO19 1RT,Open,,,Independent school,Other independent school,1,1,0,2,14,Mixed,Church of England/Christian,Non-selective
+126124,West Sussex,938,6138,9386138,The Towers Convent School,The Towers,Henfield Road,,Upper Beeding,BN44 3TF,Closed,,03-07-2020,Independent school,Other independent school,1,1,0,4,16,Mixed,Roman Catholic,Non-selective
+126126,West Sussex,938,6144,9386144,Farlington School,Strood Park,,,Horsham,RH12 3PN,Open,,,Independent school,Other independent school,1,1,1,4,18,Mixed,Church of England,Selective
+126130,West Sussex,938,6174,9386174,Great Ballard School,Eartham,,,Chichester,PO18 0LR,Open,,,Independent school,Other independent school,1,1,0,2,16,Mixed,None,Not applicable
+126132,West Sussex,938,6188,9386188,Rikkyo School-in-England,Guildford Road,Rudgwick,,Horsham,RH12 3BE,Open,,,Independent school,Other independent school,1,1,1,10,18,Mixed,Anglican/Christian,Not applicable
+126133,West Sussex,938,6200,9386200,Ardingly College,College Road,Haywards Heath,West Sussex,Haywards Heath,RH17 6SQ,Open,,,Independent school,Other independent school,1,1,1,2,18,Mixed,Church of England,Not applicable
+126134,West Sussex,938,6201,9386201,Burgess Hill Girls,Keymer Road,,,Burgess Hill,RH15 0EG,Open,,,Independent school,Other independent school,1,1,1,2,19,Girls,None,Not applicable
+126135,West Sussex,938,6203,9386203,Great Walstead School,East Mascalls Lane,Lindfield,,Haywards Heath,RH16 2QL,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,Christian,Non-selective
+126136,West Sussex,938,6206,9386206,Hurstpierpoint College,College Lane,Hurstpierpoint,,Hassocks,BN6 9JS,Open,,,Independent school,Other independent school,1,1,1,4,19,Mixed,Anglican,Selective
+126137,West Sussex,938,6208,9386208,Worth School,Paddockhurst Road,Turners Hill,West Sussex,Crawley,RH10 4SD,Open,,,Independent school,Other independent school,0,1,1,11,19,Mixed,Roman Catholic,Not applicable
+126139,West Sussex,938,6217,9386217,Farney Close School,Bolney Court,Bolney,Crossways,Haywards Heath,RH17 5RD,Open,,,Special school,Other independent special school,1,1,1,9,18,Mixed,None,Not applicable
+126141,West Sussex,938,6219,9386219,Philpots Manor School,,,,West Hoathly,RH19 4PR,Open,,,Special school,Other independent special school,1,1,1,7,19,Mixed,None,Not applicable
+126143,West Sussex,938,6223,9386223,Handcross Park School,London Road,Handcross,West Sussex,Haywards Heath,RH17 6HF,Open,,,Independent school,Other independent school,1,1,0,2,14,Mixed,None,Not applicable
+126149,West Sussex,938,6249,9386249,Central Education Ltd,,1-3 Barclay Court,Market Place,Haywards Heath,RH16 1DB,Open,,,Special school,Other independent special school,0,1,0,11,16,Mixed,None,Non-selective
+126150,West Sussex,938,6251,9386251,Brambletye School,Brambletye School,Lewes Road,,East Grinstead,RH19 3PD,Open,,,Independent school,Other independent school,1,1,0,2,14,Mixed,Church of England,Non-selective
+126151,West Sussex,938,6252,9386252,Highfield and Brookham Schools Ltd,Highfield Lane,Liphook,Hampshire,,GU30 7LQ,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Not applicable
+126154,West Sussex,938,7003,9387003,Muntham House School,Barns Green,,,Horsham,RH13 0NJ,Open,,,Special school,Non-maintained special school,1,1,1,5,18,Boys,Does not apply,Not applicable
+126155,West Sussex,938,7004,9387004,St Anthony's School,Woodlands Lane,,,Chichester,PO19 5PA,Open,,,Special school,Community special school,1,1,0,4,16,Mixed,Does not apply,Not applicable
+126156,West Sussex,938,7005,9387005,"Littlegreen School, Compton",Compton,,,Chichester,PO18 9NW,Closed,,31-12-2018,Special school,Community special school,1,1,0,7,16,Boys,Does not apply,Not applicable
+126157,West Sussex,938,7006,9387006,Manor Green College,Lady Margaret Road,Ifield,,Crawley,RH11 0DX,Open,,,Special school,Community special school,0,1,1,11,19,Mixed,Does not apply,Not applicable
+126159,West Sussex,938,7008,9387008,Palatine Primary School,Palatine Road,,,Worthing,BN12 6JP,Open,,,Special school,Community special school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+126160,West Sussex,938,7009,9387009,"Queen Elizabeth II Silver Jubilee School, Horsham",Comptons Lane,,,Horsham,RH13 5NW,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+126161,West Sussex,938,7010,9387010,Oak Grove College,The Boulevard,,,Worthing,BN13 1JX,Open,,,Special school,Community special school,0,1,1,11,19,Mixed,Does not apply,Not applicable
+126162,West Sussex,938,7011,9387011,Manor Green Primary School,Lady Margaret Road,Ifield,,Crawley,RH11 0DU,Open,,,Special school,Community special school,1,0,0,2,11,Mixed,Does not apply,Not applicable
+126163,West Sussex,938,7012,9387012,"Fordwater School, Chichester",Summersdale Road,,,Chichester,PO19 6PP,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+126169,West Sussex,938,7021,9387021,Herons Dale School,Hawkins Crescent,,,Shoreham-by-Sea,BN43 6TN,Open,,,Special school,Community special school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+126170,West Sussex,938,7022,9387022,"Cornfield School, Littlehampton",Cornfield Close,,,Littlehampton,BN17 6HY,Open,,,Special school,Community special school,1,1,0,9,16,Boys,Does not apply,Not applicable
+130842,West Sussex,938,8003,9388003,Greater Brighton Metropolitan College,Littlehampton Road,,,Worthing,BN12 6NU,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+130843,West Sussex,938,8004,9388004,Chichester College Group,Westgate Fields,,,Chichester,PO19 1SB,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+130845,West Sussex,938,8600,9388600,Worthing College,1 Sanditon Way,,,Worthing,BN14 9FD,Closed,,31-03-2019,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+130847,West Sussex,938,8602,9388602,The College of Richard Collyer In Horsham,Hurst Road,,,Horsham,RH12 2EJ,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+131001,West Sussex,938,3366,9383366,Crawley Down Village CofE,Hophurst Drive,Crawley Down,,Crawley,RH10 4XA,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+131130,West Sussex,938,2249,9382249,Castlewood Primary School,Castlewood Road,Southwater,,Horsham,RH13 9US,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+131139,West Sussex,938,6255,9386255,Manor House School,Stane Street,Slinfold,,Horsham,RH13 0QX,Open,,,Special school,Other independent special school,1,1,1,7,18,Mixed,None,Not applicable
+131504,West Sussex,938,6265,9386265,The Amicus School,The Coach House,Arundel Road,Fontwell,Arundel,BN18 0SX,Open,,,Special school,Other independent special school,1,1,0,5,16,Mixed,None,Not applicable
+131518,West Sussex,938,2252,9382252,Summerlea Community Primary School,Windsor Drive,Rustington,,Littlehampton,BN16 3SW,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+131602,West Sussex,938,2254,9382254,Brook Infant School,Salterns Road,Maidenbower,,Crawley,RH10 7JE,Open,,,Maintained school,Community school,1,0,0,4,7,Mixed,Does not apply,Not applicable
+131603,West Sussex,938,2255,9382255,Maidenbower Junior School,Harvest Road,Maidenbower,,Crawley,RH10 7RA,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+132069,West Sussex,938,6258,9386258,Apple Orchard School,Apple Orchard School,Five Oaks Road,Slinfold,Horsham,RH13 0RQ,Open,,,Special school,Other independent special school,0,1,1,12,18,Boys,None,Selective
+133043,West Sussex,938,4900,9384900,Chichester High Schools Sixth Form,Kingsham Road,,,Chichester,PO19 8AE,Open,,,College,Sixth form centres,0,0,1,16,19,Mixed,None,Not applicable
+133321,West Sussex,938,2259,9382259,"All Saints CofE Primary School, Horsham",Tylden Way,,,Horsham,RH12 5JB,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+133967,West Sussex,938,3358,9383358,Langley Green Primary,Stagelands,,Langley Green,Crawley,RH11 7PF,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+133973,West Sussex,938,3364,9383364,Northgate Primary School,Green Lane,Northgate,,Crawley,RH10 8DX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+134042,West Sussex,938,4003,9384003,Oriel High School,Matthews Drive,Maidenbower,,Crawley,RH10 7XW,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+134776,West Sussex,938,3365,9383365,Kingslea Primary School,Kings Road,,,Horsham,RH13 5PS,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+134791,West Sussex,938,3370,9383370,Buckingham Park Primary School,Buckingham Road,,,Shoreham-by-Sea,BN43 5UD,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+134896,West Sussex,938,3368,9383368,Sompting Village Primary School,White Styles Road,Sompting,,Lancing,BN15 0BU,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+135111,West Sussex,938,6272,9386272,My Choice School Arundel,2 Yeomans Nursery,Warningcamp,Arundel,West Sussex,BN18 9QY,Open,,,Special school,Other independent special school,0,1,0,11,16,Mixed,None,Not applicable
+135180,West Sussex,938,6050,9386050,Springboard Education,55 South Street,Lancing,West Sussex,Lancing,BN15 8AN,Open,,,Special school,Other independent special school,1,1,1,5,18,Mixed,None,Not applicable
+135607,West Sussex,938,3372,9383372,Bolnore Village Primary School,Updown Hill,Bolnore Village,,Haywards Heath,RH16 4GD,Open,,,Maintained school,Foundation school,1,0,0,4,11,Mixed,None,Not applicable
+135691,West Sussex,938,6228,9386228,Seadown School,"Seadown House, 1a Farncombe Road",,,Worthing,BN11 2BE,Open,,,Special school,Other independent special school,1,1,0,6,16,Mixed,None,Non-selective
+135744,West Sussex,938,6911,9386911,The Sir Robert Woodard Academy,Upper Boundstone Lane,,,Sompting,BN15 9QZ,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Christian,Non-selective
+135745,West Sussex,938,6912,9386912,The Littlehampton Academy,Fitzalan Road,,,Littlehampton,BN17 6FE,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Christian,Non-selective
+135760,West Sussex,938,6913,9386913,Midhurst Rother College,North Street,,,Midhurst,GU29 9DT,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+135813,West Sussex,938,3376,9383376,Billingshurst Primary School,Upper Station Road,,,Billingshurst,RH14 9RE,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+135814,West Sussex,938,7023,9387023,Ingfield Manor School,Ingfield Manor Drive,Five Oaks,,Billingshurst,RH14 9AX,Open,,,Special school,Non-maintained special school,1,1,1,3,19,Mixed,Does not apply,Not applicable
+135930,West Sussex,938,6267,9386267,LVS Hassocks,London Road,Sayers Common,,Hassocks,BN6 9HT,Open,,,Special school,Other independent special school,1,1,1,8,19,Mixed,None,Not applicable
+135962,West Sussex,938,6914,9386914,Shoreham Academy,Kingston Lane,,,Shoreham-by-Sea,BN43 6YT,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Christian,Non-selective
+136114,West Sussex,938,7013,9387013,Woodlands Meed,Chanctonbury Road,,,Burgess Hill,RH15 9EY,Open,,,Special school,Foundation special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+136865,West Sussex,938,2134,9382134,Southwater Junior Academy,Worthing Road,Southwater,,Horsham,RH13 9JH,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+136866,West Sussex,938,2136,9382136,Southwater Infant Academy,Worthing Road,Southwater,,Horsham,RH13 9JH,Open,,,Academy,Academy converter,1,0,0,5,7,Mixed,Does not apply,Not applicable
+137096,West Sussex,938,4004,9384004,"The Academy, Selsey",School Lane,Selsey,,Chichester,PO20 9EH,Open,,,Academy,Academy sponsor led,0,1,0,11,16,Mixed,Does not apply,Non-selective
+137211,West Sussex,938,2001,9382001,Warden Park Primary Academy,New England Road,,,Haywards Heath,RH16 3JR,Open,,,Academy,Academy sponsor led,1,0,0,2,11,Mixed,None,Non-selective
+137263,West Sussex,938,4029,9384029,Hazelwick School,Hazelwick School Close,Three Bridges,,Crawley,RH10 1SX,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137370,West Sussex,938,2194,9382194,Medmerry Primary School,High Street,Selsey,,Chichester,PO20 0QJ,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+137416,West Sussex,938,4103,9384103,Warden Park Secondary Academy,Broad Street,Cuckfield,,Haywards Heath,RH17 5DP,Open,,,Academy,Academy converter,0,1,0,11,16,Mixed,Does not apply,Non-selective
+137782,West Sussex,938,4005,9384005,The Regis School,Westloats Lane,Bognor Regis,,West Sussex,PO21 5LH,Open,,,Academy,Academy sponsor led,0,1,1,11,19,Mixed,None,Non-selective
+137980,West Sussex,938,2007,9382007,Edward Bryant School,London Road,,,Bognor Regis,PO21 1BG,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+138049,West Sussex,938,2003,9382003,Tangmere Primary Academy,Bishops Road,Tangmere,,Chichester,PO20 2JB,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,None,Not applicable
+138050,West Sussex,938,2004,9382004,The Bewbush Academy,Dorsten Place,Bewbush,,Crawley,RH11 8XW,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,None,Not applicable
+138071,West Sussex,938,2005,9382005,Seal Primary Academy,East Street,,,Selsey,PO20 0BN,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,None,Not applicable
+138402,West Sussex,938,2006,9382006,Portfield Primary Academy,St James Road,Chichester,,West Sussex,PO19 7HA,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+138413,West Sussex,938,2016,9382016,Southway Primary School,South Way,,,Bognor Regis,PO21 5EZ,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,None,Not applicable
+138453,West Sussex,938,2017,9382017,Broadfield Primary Academy,Vulcan Close,Broadfield,,Crawley,RH11 9PD,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,None,Not applicable
+138492,West Sussex,938,5200,9385200,Greenway Academy,Greenway,,,Horsham,RH12 2JS,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,None,Not applicable
+138618,West Sussex,938,2250,9382250,The Oaks Primary School & Nursery,Loppets Road,Tilgate,,Crawley,RH10 5DP,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+138620,West Sussex,938,4044,9384044,Thomas Bennett Community College,Ashdown Drive,Tilgate,,Crawley,RH10 5AD,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+138645,West Sussex,938,2139,9382139,Seymour Primary School,Seymour Road,Broadfield,,Crawley,RH11 9ES,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+138648,West Sussex,938,3363,9383363,Hilltop Primary School,Ditchling Hill,Southgate West,,Crawley,RH11 8QL,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+139109,West Sussex,938,4110,9384110,Worthing High School,South Farm Road,,,Worthing,BN14 7AR,Open,,,Academy,Academy converter,0,1,0,11,16,Mixed,None,Non-selective
+139478,West Sussex,938,2053,9382053,Rustington Community Primary School,North Lane,Rustington,,Littlehampton,BN16 3PW,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+139668,West Sussex,938,4006,9384006,Chichester Free School,Hunston Road,,,Chichester,PO20 1NP,Open,,,Academy,Free schools,1,1,1,4,19,Mixed,None,Non-selective
+139674,West Sussex,938,2019,9382019,Eastbrook Primary Academy,Manor Hall Road,Southwick,,Brighton,BN42 4NF,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+139879,West Sussex,938,3354,9383354,St Lawrence CofE Primary School,Trinity Road,Hurstpierpoint,,Hassocks,BN6 9UY,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Church of England,Not applicable
+139958,West Sussex,938,2020,9382020,The Mill Primary Academy,Ifield Drive,Ifield,,Crawley,RH11 0EL,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+140048,West Sussex,938,2188,9382188,Downview Primary School,Wroxham Way,Felpham,,Bognor Regis,PO22 8ER,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+140089,West Sussex,938,3374,9383374,River Beach Primary School,York Road,,,Littlehampton,BN17 6EW,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+140105,West Sussex,938,4001,9384001,Chichester High School,Kingsham Road,,,Chichester,PO19 8EB,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply
+140199,West Sussex,938,4007,9384007,Ormiston Six Villages Academy,Lime Avenue,Westergate,,Chichester,PO20 3UE,Open,,,Academy,Academy sponsor led,0,1,0,11,16,Mixed,Does not apply,Non-selective
+140424,West Sussex,938,4008,9384008,Bohunt School Worthing,65a Broadwater Road,,,Worthing,BN14 8AH,Open,,,Academy,Academy sponsor led,0,1,0,11,16,Mixed,Does not apply
+140472,West Sussex,938,4604,9384604,"Bishop Luffa School, Chichester",Westgate,,,Chichester,PO19 3HP,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Church of England,Non-selective
+140651,West Sussex,938,2021,9382021,Forge Wood Primary School,Somerley Drive,,,Crawley,RH10 3SW,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,None,Not applicable
+140713,West Sussex,938,4065,9384065,Durrington High School,The Boulevard,,,Worthing,BN13 1JX,Open,,,Academy,Academy converter,0,1,0,11,16,Mixed,Does not apply,Non-selective
+140723,West Sussex,938,2212,9382212,Harlands Primary School,Penland Road,,,Haywards Heath,RH16 1PJ,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+140794,West Sussex,938,3375,9383375,White Meadows Primary Academy,Whitelea Road,Wick,,Littlehampton,BN17 7JL,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+141038,West Sussex,938,4011,9384011,The Gatwick School,23 Gatwick Road,,,Crawley,RH10 9TP,Open,,,Academy,Free schools,1,1,0,4,16,Mixed,None
+141181,West Sussex,938,2023,9382023,Kingsham Primary School,Hay Road,,,Chichester,PO19 8BN,Open,,,Academy,Academy sponsor led,1,0,0,5,11,Mixed,Does not apply,Not applicable
+141265,West Sussex,938,2210,9382210,Halsford Park Primary School,Manor Road,,,East Grinstead,RH19 1LR,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+141266,West Sussex,938,2108,9382108,Fernhurst Primary School,Haslemere Road,Fernhurst,,Haslemere,GU27 3EA,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+141267,West Sussex,938,2247,9382247,"Baldwins Hill Primary School, East Grinstead",Lowdells Lane,Baldwins Hill,,East Grinstead,RH19 2AP,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+141348,West Sussex,938,2026,9382026,The Globe Primary Academy,Irene Avenue,,,Lancing,BN15 9NZ,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+141600,West Sussex,938,2008,9382008,Rose Green Junior School,Raleigh Road,Rose Green,,Bognor Regis,PO21 3NA,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+141892,West Sussex,938,2221,9382221,Blackthorns Community Primary Academy,3 Blackthorns Close,Lindfield,,Haywards Heath,RH16 2UA,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+141906,West Sussex,938,2166,9382166,Holmbush Primary Academy,Hawkins Crescent,,,Shoreham-by-Sea,BN43 6TN,Open,,,Academy,Academy converter,1,0,0,2,11,Mixed,Does not apply,Not applicable
+142089,West Sussex,938,4012,9384012,The Burgess Hill Academy,Station Road,,,Burgess Hill,RH15 9EA,Open,,,Academy,Academy sponsor led,0,1,0,11,16,Mixed,Does not apply,Non-selective
+142141,West Sussex,938,2138,9382138,Barnham Primary School,Elm Grove,Barnham,,Bognor Regis,PO22 0HW,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+142290,West Sussex,938,2150,9382150,Pound Hill Infant Academy,Crawley Lane,Pound Hill,Pound Hill Infant Academy,Crawley,RH10 7EB,Open,,,Academy,Academy converter,1,0,0,4,7,Mixed,Does not apply,Not applicable
+142291,West Sussex,938,2257,9382257,Lindfield Primary Academy,School Lane,Lindfield,,Haywards Heath,RH16 2DX,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Does not apply,Not applicable
+142381,West Sussex,938,2085,9382085,Orchards Junior School,Nelson Road,,,Worthing,BN12 6EN,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+143386,West Sussex,938,2233,9382233,"The Laurels Primary School, Worthing",Winterbourne Way,West Durrington,,Worthing,BN13 3QH,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+143387,West Sussex,938,3367,9383367,Seaside Primary School,Freshbrook Road,,,Lancing,BN15 8DL,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+143400,West Sussex,938,6002,9386002,New Barn School,Guildford Road,Broadbridge Heath,West Sussex,,RH12 3PQ,Open,,,Special school,Other independent special school,1,1,1,7,19,Mixed,None,Not applicable
+143553,West Sussex,938,2027,9382027,St. Joseph's CofE Junior School,Orchard Street,,,Chichester,PO19 1DQ,Open,,,Academy,Academy sponsor led,1,0,0,7,11,Mixed,Church of England,Not applicable
+143635,West Sussex,938,3361,9383361,Gossops Green Primary,Kidborough Road,Gossops Green,,Crawley,RH11 8HW,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+143935,West Sussex,938,6003,9386003,Reflections Small School,Tudor Court,52 Richmond Road,Worthing,West Sussex,BN11 1PS,Open,,,Independent school,Other independent school,1,0,0,4,8,Mixed,None,Not applicable
+143973,West Sussex,938,2244,9382244,Desmond Anderson Primary Academy,Anderson Road,Tilgate,,Crawley,RH10 5EA,Open,,,Academy,Academy converter,1,0,0,2,11,Mixed,Does not apply,Not applicable
+144243,West Sussex,938,4800,9384800,St Philip Howard Catholic School,Elm Grove South,Barnham,,Bognor Regis,PO22 0EN,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+144244,West Sussex,938,2024,9382024,East Preston Junior School,Lashmar Road,East Preston,,Littlehampton,BN16 1EZ,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+144401,West Sussex,938,2041,9382041,St Mary's Catholic Primary School,Cobden Road,,,Worthing,BN11 4BD,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+144453,West Sussex,938,2223,9382223,Northlands Wood Primary Academy,Beech Hill,,,Haywards Heath,RH16 3RX,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+144599,West Sussex,938,2047,9382047,Southgate Primary,Barrington Road,Southgate,,Crawley,RH10 6DG,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+145394,West Sussex,938,7019,9387019,Brantridge School,Staplefield Place,Staplefield,,Haywards Heath,RH17 6EQ,Open,,,Special school,Academy special converter,1,0,0,6,11,Boys,Does not apply,Not applicable
+145544,West Sussex,938,2230,9382230,Waterfield Primary School,Waterfield Gardens,Bewbush,Waterfield Primary School,Crawley,RH11 8RA,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145925,West Sussex,938,2054,9382054,Downsbrook Primary School,Dominion Road,,,Worthing,BN14 8GD,Open,,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+146274,West Sussex,938,7000,9387000,Littlegreen Academy,Compton,,,Chichester,PO18 9NW,Open,01-01-2019,,Special school,Academy special sponsor led,1,1,0,7,16,Boys,Does not apply,Not applicable
+146448,West Sussex,938,3321,9383321,The March CofE Primary School,Claypit Lane,Westhampnett,,Chichester,PO18 0NU,Open,01-12-2018,,Academy,Academy converter,1,0,0,4,11,Mixed,Church of England,Not applicable
+147187,West Sussex,938,4014,9384014,Bohunt Horsham,Hurst Road,,,Horsham,RH12 2DN,Open,02-09-2019,,Academy,Free schools,1,1,0,4,16,Mixed,Does not apply,Non-selective
+147193,West Sussex,938,2056,9382056,Kilnwood Vale Primary School,Calvert Link,,Faygate,Horsham,RH12 0BZ,Open,02-09-2019,,Academy,Free schools,1,0,0,2,11,Mixed,None,Non-selective
+147546,West Sussex,938,6004,9386004,Educate U,"Unit 2,",58c Chapel Road,Worthing,West Sussex,BN12 6JT,Open,02-12-2019,,Independent school,Other independent school,1,1,0,5,16,Mixed,None,Selective
+147911,West Sussex,938,6006,9386006,Atelier21 Future School,Broadfield Park,Brighton Road,Crawley,West Sussex,RH11 9RZ,Open,24-08-2020,,Independent school,Other independent school,1,1,0,4,14,Mixed,None
+147936,West Sussex,938,2176,9382176,Milton Mount Primary School,Grattons Drive,Pound Hill,,Crawley,RH10 3AG,Open,01-09-2020,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+147937,West Sussex,938,3355,9383355,St Joseph's Catholic Primary School,Hazelgrove Road,,,Haywards Heath,RH16 3PQ,Open,01-09-2020,,Academy,Academy converter,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+148141,West Sussex,938,2057,9382057,Blackwell Primary School,Blackwell Farm Road,,,East Grinstead,RH19 3JL,Open,01-09-2020,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+148170,West Sussex,938,3007,9383007,Clapham and Patching CofE Primary School,The Street,Clapham,,Worthing,BN13 3UU,Open,01-11-2020,,Academy,Academy converter,1,0,0,4,11,Mixed,Church of England,Not applicable
+148184,West Sussex,938,2059,9382059,Rumboldswhyke CofE Primary School,Rumbolds Close,,,Chichester,PO19 7UA,Open,01-10-2020,,Academy,Academy sponsor led,1,0,0,5,7,Mixed,Church of England,Not applicable
+148221,West Sussex,938,4501,9384501,Steyning Grammar School,Shooting Field,,,Steyning,BN44 3RX,Open,01-12-2020,,Academy,Academy converter,0,1,1,11,18,Mixed,Church of England,Non-selective
+148286,West Sussex,938,2012,9382012,St. Joseph's Infant School,Orchard Gardens,,,Chichester,PO19 1DG,Open,01-12-2020,,Academy,Academy converter,1,0,0,4,7,Mixed,Does not apply,Not applicable
+148396,West Sussex,938,2060,9382060,Graffham Church of England Infant School (Voluntary Controlled),,Graffham,,Petworth,GU28 0NJ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,7,Mixed,Church of England,Not applicable
+148719,West Sussex,938,2075,9382075,Whytemead Primary School,Dominion Road,,,Worthing,BN14 8LH,Open,01-10-2021,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
